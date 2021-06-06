@@ -1,0 +1,157 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #C7C8C4;
+}
+header{
+    background-color: #D1BF91;
+}
+
+.banner img {
+    width: 100%;
+    height: 30vh;
+  }
+
+.main-container{
+    background-color: #A6341B;
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 32px;
+    height: 500px;
+}
+
+.menu {
+    text-align: center;
+}
+
+.menu ul li {
+    display: inline-block;
+    padding: 5px;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    vertical-align: middle;
+    margin-inline: 60px;
+}
+
+.menu ul li a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.main-container h1 {
+    padding: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.main-container h3 {
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.main-container p {
+    margin-top: 30px;
+    margin-bottom: 0px;
+    text-indent: 50px;
+    margin-left: 15px;
+}
+
+
+footer {
+    background-color: #60371E;
+    color: whitesmoke;
+    text-align: center;
+    vertical-align: middle;
+    height: auto;
+    padding: 10px;
+}
+
+
+/* ***************************************************************************** */
+
+.pizzeria img {
+    width: 15%;
+    float: left;
+    margin-right: 20px;
+}
+
+.container-pizzeria{
+    padding: 20px;
+    margin: 20px;
+    background-color: #A6341B;
+    color: whitesmoke;
+}
+
+.pizzeria {
+    padding: 30px;
+    margin: 0px;
+    background-color: #D1BF91;
+    border-style: dashed;
+    border-color: black;
+}
+
+.pizzeria h1 {
+    margin-bottom: 10px;
+    font-size: 35px;
+    color: black;
+}
+
+.pizzeria p {
+    font-size: 25px;
+    text-align: justify;
+    clear: both;
+}
+
+.direccion {
+    background-color: #F9C743;
+    width: 15%;
+}
+
+
+/* ******************************************************************************* */
+
+.formulario {
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #A6341B;
+    color: whitesmoke;
+    width: 50%;
+    border-style: solid;
+    border-color: black;
+}
+
+.formulario p {
+    padding: 20px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.formulario input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #F9C743;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
